@@ -22,3 +22,9 @@ Mock SaaS subscription data including:
 ## Key Takeaways
 This project focuses on translating business questions into SQL queries
 and interpreting results in a business context.
+
+## Files in this Repository
+- schema.sql — database structure
+- queries.sql — business SQL queries
+- insights.md — interpretation and recommendations
+
