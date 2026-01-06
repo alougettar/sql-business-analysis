@@ -37,7 +37,7 @@ Additional Tools
 This project focuses on translating business questions into SQL queries
 and interpreting results in a business context.
 
-Contributions
+## Contributions
 This project was extended with additional SaaS business KPIs including MRR, churn trend, ARPU and revenue by plan to provide a more complete view of subscription performance.
 
 
